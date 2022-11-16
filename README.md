@@ -1,4 +1,4 @@
-# to4-consumption-anomalies
+# to3-Inventory Analysis Tool
 
 ## Instructions
 Detailed usage instructions can be found in the User Guide
