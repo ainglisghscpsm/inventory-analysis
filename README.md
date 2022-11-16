@@ -33,6 +33,7 @@ Visualization - excel dashboard, csv output connected via Power Query
 
 ## To run
 Unzip LMIS_Anaysis_report.zip (this contains the excel dashboard - too large to upload on Github)
+
 pip install requirements.txt
 
 python inventory_analysis.gui
