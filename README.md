@@ -1,4 +1,4 @@
-# to3-Inventory Analysis Tool
+##Inventory Analysis Tool
 
 ## Instructions
 Detailed usage instructions can be found in the User Guide
